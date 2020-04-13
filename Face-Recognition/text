@@ -1,0 +1,2 @@
+hello, this directory contains the programs related to face recognition.
+face_recognition package is used for recognizing face and opencv is used for labelling the face.
