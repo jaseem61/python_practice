@@ -1,3 +1,0 @@
-hello, this directory contains the programs related to face recognition.
-face_recognition package is used for recognizing face and opencv is used for labelling the face.
-One of the fault found in the program is that it can be used to identify only a single face :/.....trying to fix it

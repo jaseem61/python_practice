@@ -1,0 +1,7 @@
+hello, this directory contains the programs related to face recognition.
+face_recognition package is used for recognizing face and opencv is used for labelling the face.
+One of the fault found in the program is that it can be used to identify only a single face :/.....trying to fix it
+in the same directory as code, create two directories. One for known_images and the other is for unknown_images.
+in the known_images directory, create a directory with the person name. Inside the person name directory, include some image of the face of that person.
+In the unknown_images directory, place a collection of images which may or may not have the "known person" in it.
+
